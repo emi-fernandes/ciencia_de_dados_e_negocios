@@ -5,7 +5,7 @@ Este repositório foi criado para armazenar os projetos, trabalhos e anotações
 ---
 
 ### Aulas
-As aulas são todas segundas.
+Segunda-Feira.
 
 ### Professor
 Professor: Alvaro Barros.
