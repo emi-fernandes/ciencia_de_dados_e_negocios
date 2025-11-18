@@ -5,6 +5,7 @@ Este repositório foi criado para armazenar os projetos, trabalhos e anotações
 ---
 ### Avaliação
 AP1- 29/10/2025 (feito em grupo)
+
 AP2- 17/11/2025 (feito em grupo)
 
 ### Aulas
